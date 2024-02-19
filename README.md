@@ -4,6 +4,10 @@ Olá, Bem vindo ao meu projeto de jogo, cujo objetivo é adivinhar o número sec
 
 ![image](https://github.com/RafaelHzn/jogo-do-adivinho/blob/main/img/Jogo%20do%20Adivinho.jpg)
 
+### Acesse aqui:
+#### https://jogo-do-adivinho.vercel.app/
+
+<br> 
 
 ## Ferramentas utilizadas:
 
@@ -13,9 +17,9 @@ Olá, Bem vindo ao meu projeto de jogo, cujo objetivo é adivinhar o número sec
 
 * CSS
 
+<br>
 
 ## Feito por:
 
 ### Rafael Ferreira
-
-### Linkedin: https://www.linkedin.com/in/rafaelhzn/
+#### Linkedin: https://www.linkedin.com/in/rafaelhzn/
