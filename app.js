@@ -50,10 +50,10 @@ function verificarChute() {
 
     } else {
         if (chute > numeroSecreto) {
-            exibirTextoNaTela ('h1', 'Errrrou!');
+            exibirTextoNaTela ('h1', 'Errou!');
             exibirTextoNaTela ('p', `O número ${chute} é maior que o número secreto.`);
         } else {
-            exibirTextoNaTela ('h1', 'Errrrou!');
+            exibirTextoNaTela ('h1', 'Errou!');
             exibirTextoNaTela ('p', `O número ${chute} é menor que o número secreto.`);
         }
         tentativas++;
